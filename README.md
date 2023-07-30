@@ -1,14 +1,19 @@
 # Ethical Dorks for Cybersecurity Research
 
-A curated list of search queries (dorks) to identify web application vulnerabilities responsibly. These dorks are intended for educational and ethical purposes only. Please use them responsibly and follow ethical guidelines when conducting security research.
+[![GitHub Stars](https://img.shields.io/github/stars/neoxxz/suggestname.svg?style=social)](https://github.com/neoxxz/suggestname/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/neoxxz/suggestname.svg?style=social)](https://github.com/neoxxz/suggestname/network/members)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![Repo Size](https://img.shields.io/github/repo-size/neoxxz/suggestname.svg)](README.md)
 
-## Disclaimer
+## Overview
 
-Using these dorks to exploit or gain unauthorized access to websites or systems is illegal and unethical. The purpose of this repository is to help security researchers and ethical hackers improve the security of websites and applications through responsible disclosure and ethical testing.
+Welcome to Ethical Dorks, a curated collection of search queries (dorks) designed for cybersecurity researchers and ethical hackers. These dorks can be used with search engines like Google to identify potential security vulnerabilities and misconfigurations in web applications.
 
-## Dorks List
+## Contributing
 
-Below is the list of ethical dorks for cybersecurity research:
+Contributions to this repository are welcome, but they must align with ethical use. To add new dorks or improve existing ones, please submit a pull request.
+
+## Dorks List :
 
 ```
 specific set of vulnerable words in url.
