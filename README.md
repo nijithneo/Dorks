@@ -6,14 +6,6 @@ A curated list of search queries (dorks) to identify web application vulnerabili
 
 Using these dorks to exploit or gain unauthorized access to websites or systems is illegal and unethical. The purpose of this repository is to help security researchers and ethical hackers improve the security of websites and applications through responsible disclosure and ethical testing.
 
-## How to Use
-
-If you are a security researcher or ethical hacker, you can use these dorks with search engines like Google to identify potential security issues on websites.
-
-## Contributing
-
-Contributions to this repository are welcome, but they must align with the ethical use outlined in this README. If you have new dorks or improvements to existing ones, please submit a pull request, and they will be reviewed accordingly.
-
 ## Dorks List
 
 Below is the list of ethical dorks for cybersecurity research:
