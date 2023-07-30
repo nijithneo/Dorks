@@ -3,7 +3,7 @@
 [![GitHub Stars](https://img.shields.io/github/stars/neoxxz/suggestname.svg?style=social)](https://github.com/neoxxz/suggestname/stargazers)
 [![GitHub Forks](https://img.shields.io/github/forks/neoxxz/suggestname.svg?style=social)](https://github.com/neoxxz/suggestname/network/members)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-[![Repo Size](https://img.shields.io/github/repo-size/neoxxz/suggestname.svg)](README.md)
+[![Repo Size](https://img.shields.io/github/repo-size/neoxxz/Dorks.svg)](README.md)
 
 ## Overview
 
