@@ -18,6 +18,7 @@ Contributions to this repository are welcome, but they must align with the ethic
 
 Below is the list of ethical dorks for cybersecurity research:
 
+```
 specific set of vulnerable words in url.
 
 inurl:trainers.php?id=
@@ -1888,7 +1889,7 @@ allintitle: restricted filetype:doc site:gov
 allintitle:*.php?filename=*
 allintitle:*.php?page=*
 allintitle:*.php?logon=*
-
+```
 
 ## Disclaimer
 
