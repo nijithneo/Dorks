@@ -8,7 +8,7 @@ Using these dorks to exploit or gain unauthorized access to websites or systems 
 
 ## How to Use
 
-If you are a security researcher or ethical hacker, you can use these dorks with search engines like Google to identify potential security issues on websites. Always ensure that you have explicit permission to test the websites you are targeting.
+If you are a security researcher or ethical hacker, you can use these dorks with search engines like Google to identify potential security issues on websites.
 
 ## Contributing
 
@@ -1899,5 +1899,3 @@ The maintainers of this repository disclaim any liability for the misuse or ille
 
 This repository is licensed under the [MIT License](LICENSE), which means you are free to use and modify the contents as long as you include the original license and give appropriate credit.
 
----
-Please note that this README is a template and should be customized to match the specific context and purpose of your GitHub repository.
