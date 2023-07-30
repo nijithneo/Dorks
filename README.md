@@ -1,7 +1,7 @@
 # Ethical Dorks for Cybersecurity Research
 
-[![GitHub Stars](https://img.shields.io/github/stars/neoxxz/suggestname.svg?style=social)](https://github.com/neoxxz/suggestname/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/neoxxz/suggestname.svg?style=social)](https://github.com/neoxxz/suggestname/network/members)
+[![GitHub Stars](https://img.shields.io/github/stars/neoxxz/EthicalDorks.svg?style=social)](https://github.com/neoxxz/EthicalDorks/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/neoxxz/EthicalDorks.svg?style=social)](https://github.com/neoxxz/EthicalDorks/network/members)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
 ## Overview
