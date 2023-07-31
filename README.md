@@ -1,4 +1,4 @@
-# Ethical Dorks for Cybersecurity Research
+# Dorks for Cybersecurity Research
 
 [![GitHub Stars](https://img.shields.io/github/stars/neoxxz/EthicalDorks.svg?style=social)](https://github.com/neoxxz/EthicalDorks/stargazers)
 [![GitHub Forks](https://img.shields.io/github/forks/neoxxz/EthicalDorks.svg?style=social)](https://github.com/neoxxz/EthicalDorks/network/members)
